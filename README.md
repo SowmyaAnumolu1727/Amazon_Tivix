@@ -6,10 +6,10 @@
 
 
 **Running through Cypress test runner:**
-step 1: Open terminal in visual studio
-step 2: npx cypress open
-Step 3: Select the browser which we want to run through
-step 4: Click on Amazon.feature file
+**step 1:** Open terminal in visual studio
+**step 2:** npx cypress open
+**Step 3:** Select the browser which we want to run through
+**step 4:** Click on Amazon.feature file
 
 
 **Running through terminal:**
